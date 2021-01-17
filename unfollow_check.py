@@ -11,18 +11,18 @@ from pytz import timezone
 FOLLOWER_LIMIT = 10**6
 
 #Your instagram bot account username
-insta_username = ''
+insta_username = 'mohdt_houseef'
 
 #Your instagram bot account password
-insta_password = ''
+insta_password = 'bsgjxiv@43486'
 
 #Username of the real instagram account which you want to monitor
-username = ''
+username = 'khajur_queen'
 
 #Change this at your own risk
 MINS_TO_SLEEP = 40
 
-discord_webhook_url = ''
+discord_webhook_url = 'https://discord.com/api/webhooks/800386984072839179/veh4cbMsEm3bvTQsBo_KQpuh9EeqD8UMGaE-66U7sQL7i9F5HKZjXG2ZQksL2166X_gY'
 
 
 def check_unfollowers(current,old):
