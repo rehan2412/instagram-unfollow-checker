@@ -2,7 +2,7 @@ from discord_webhooks import DiscordWebhooks
 
 #Put your discord webhook url here.
 # IMPORTANT : If you're hosting on pythonanywhere, use discordapp.com instead of discord.com in the URL
-WEBHOOK_URL = 'https://discordapp.com/api/webhooks/.....'
+WEBHOOK_URL = 'https://discord.com/api/webhooks/800386984072839179/veh4cbMsEm3bvTQsBo_KQpuh9EeqD8UMGaE-66U7sQL7i9F5HKZjXG2ZQksL2166X_gY'
 
 
 def send_msg(username, follower_change, followers, unfollowers,
